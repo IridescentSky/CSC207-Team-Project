@@ -18,13 +18,13 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+* We will use Discord as our primary means of communication.
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+* Each teammate should respond to messages within 2 days at most.
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+* Teammates should message when they are unable to attend a lecture, tutorial, or when they are unable to meet a deadline.
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* We will try to actively ask everyone for their opinions so they can contribute.
 
 ---
 
@@ -37,7 +37,7 @@ This contract sets out shared expectations and commitments for how our team will
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+Decisions should be made by majority vote.
 
 ---
 ## Conflict resolution
@@ -58,4 +58,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-(type names here)
+Frank H
